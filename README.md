@@ -11,7 +11,7 @@ En caso de no encontrar version en alguno de los comandos, descargar node:
 Node: https://nodejs.org/
 
 ## Creación de Proyecto
-Para crear el proyecto utilizaremos create-expo-app
+Para crear el proyecto utilizaremos vite
 
 ~~~
 npm create vite@latest myapp -- --template svelte
